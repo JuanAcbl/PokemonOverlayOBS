@@ -1,0 +1,62 @@
+html , body{
+    padding: 0px;
+    margin: 0px;
+}
+.img{
+    background-image: url('pokeballs.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 320px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ 
+}
+.oldGen{
+    transform: translate(0px, -20px);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-repeat:no-repeat;
+    background-position:center ;
+    background-size:contain;
+}
+.newGen{
+    transform: translate(0px, -20px);
+    width: 230px;
+    height: 300px;
+    background-repeat:no-repeat;
+    background-position:center ;
+    background-size:contain;
+}
+#container {
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+    table{
+        font-weight: bold;
+        color: aliceblue;
+        text-align: center;
+        border: 1px solid black;
+        border-radius:5px ;
+        input{
+            height: 300px;
+        }
+    }
+  }
+  
+
+.boton{
+display: flex;
+transform: translate(0, 50px );
+justify-content: center;
+    button{
+        background-color: gray;
+        font-weight: bold;
+        height: 300px;
+        width: 500px;
+    }
+}
