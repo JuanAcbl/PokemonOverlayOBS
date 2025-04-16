@@ -17,6 +17,7 @@ For use:
 Select 'Interact'.
 In the new window, add the number of your Pokémon.
 Press the gray button and enjoy the overlay.
+
 (Note: There are only animated models up to Pokémon number 649)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Instrucciones en Español:
