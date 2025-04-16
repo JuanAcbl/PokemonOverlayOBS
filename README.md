@@ -33,4 +33,5 @@ Para su uso:
 Seleccionamos interactuar.
 En la nueva ventana añadimos el número de nuestros Pokémon.
 Presionar botón gris y disfrutar del overlay.
-(Nota: solo hay modelos con animación hasta el Pokémon número 649)
+
+(Note: Solo hay modelos con animación hasta el Pokémon número 649)
